@@ -1,14 +1,14 @@
-# ShopDiene — Mini Site E-commerce
+# ELEGANCE 2.0 — Mini Site E-commerce
 
 Projet final du module Développement Web — Création d'un mini site e-commerce dynamique.
 
 ## Membres du groupe
 
-- Diegane Daba Sarr
+-
 
 ## Description du projet
 
-ShopDiene est une boutique en ligne dynamique qui récupère des produits depuis la Fake Store API et permet aux utilisateurs de gérer un panier d'achat persistant. Le site est entièrement réalisé en HTML, CSS et JavaScript natif.
+ELEGANCE 2.0 est une boutique en ligne dynamique affichant des produits de luxe (parfums, vêtements, accessoires, montres, chaînes) et permettant aux utilisateurs de gérer un panier d'achat persistant. Le site est entièrement réalisé en HTML, CSS et JavaScript natif.
 
 ## Fonctionnalités réalisées
 
